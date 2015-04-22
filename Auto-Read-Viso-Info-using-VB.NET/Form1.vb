@@ -17,7 +17,7 @@ Public Class Form1
             docs.Add(currentFile.FullName)
         Next
         For Each d In docs
-            Dim visio As New Microsoft.Office.Interop.Visio.Application
+            Dim visio As New Microsoft.Office.Interop.Visio.InvisibleApp
             Dim doc As Document
             doc = visio.Documents.Add(d)
             Dim filename = System.IO.Path.GetFileNameWithoutExtension(d)

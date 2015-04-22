@@ -1,1 +1,2 @@
 c:\users\mp\documents\visual studio 2013\Projects\Auto-Read-Viso-Info-using-VB.NET\Auto-Read-Viso-Info-using-VB.NET\bin\Debug\Auto-Read-Viso-Info-using-VB.NET.exe.config
+D:\GitHub\Auto-Read-Viso-Info-using-VB.NET\Auto-Read-Viso-Info-using-VB.NET\bin\Debug\Auto-Read-Viso-Info-using-VB.NET.exe.config
